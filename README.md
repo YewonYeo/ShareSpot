@@ -198,7 +198,7 @@
 - Hibernate 5.6.9 Final
 
 
-**Frontend - React**
+**Frontend - Vue.js**
 
 - Visual Studio Code IDE
 - Node.Js 16.17.1 LTS
