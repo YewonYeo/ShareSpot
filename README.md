@@ -187,9 +187,8 @@
 
 **Backend - Spring**
 
-- IntelliJ IDE 2022.1.3
 - JDK 11
-- Springboot 2.7.1
+- Springboot 2.7.2
 - Spring Data JPA
 - Spring Security
 - Spring Web
@@ -269,4 +268,4 @@ sharespot-front
 
 [와이어프레임](https://ovenapp.io/view/M10rj2Ij6jc580rV5fPBZKw8izPXFVDp/INGlZ)
 
-[스토리보드](https://www.figma.com/file/UMAq04A8MwNMbEdVgHQgA2/%EB%94%94%EC%9E%90%EC%9D%B81?node-id=0%3A1)
+[스토리보드](https://www.figma.com/file/UMAq04A8MwNMbEdVgHQgA2/ShareSpot?node-id=0%3A1&t=GkiolF6tuvY34qOo-1)
